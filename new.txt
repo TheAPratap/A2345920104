@@ -1,0 +1,8 @@
+{
+  "companyName": "Train Central",
+  "clientID": "de98c568-ecb1-47c3-a8d0-3c5286ae2fdd",
+  "clientSecret": "TqZThaTJmRVAClOE",
+  "ownerName": "Abhinav Pratap",
+  "ownerEmail": "theapratap@gmail.com",
+  "rollNo": "A2345920104"
+}
